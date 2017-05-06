@@ -141,7 +141,7 @@ function initMap(){
       container: 'map', // container id
       style: 'mapbox://styles/mapbox/dark-v9', //stylesheet location
       center: [-74,40.723],
-      zoom: 10, // starting zoom
+      zoom: 11.5, // starting zoom
       zoomControl: true,
 			//bearing: 26
       };
